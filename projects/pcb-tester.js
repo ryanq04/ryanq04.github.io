@@ -13,7 +13,7 @@ at a sampling rate of 1 MS/s. Learn more about this project at https://github.co
       "paragraph": ""
     },
     {
-      "caption": "Automated PCB testing: components, fixture, and ADC measurements",
+      "caption": "Automated PCB testing: components, demo, and ADC measurements",
       "paragraph": ""
     }
   ]
@@ -31,16 +31,16 @@ projects.push({
     },
     {
       "src": "images/pcb-tester/automatic_pcb_tester_parts.jpg",
-      "caption": "Tester components"
+      "caption": "BOM"
     },
     {
       "src": "images/pcb-tester/automatic_pcb_tester.mp4",
       "poster": "images/pcb-tester/Automatic_PCB_Tester.jpg",
-      "caption": "Automatic PCB Tester"
+      "caption": "Demo"
     },
     {
       "src": "images/pcb-tester/automatic_pcb_tester_adc_fft.jpg",
-      "caption": "ADC time-domain signal and FFT"
+      "caption": "Time-Domain and FFT"
     }
   ],
   "figures": [

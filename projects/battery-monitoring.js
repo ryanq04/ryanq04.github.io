@@ -27,11 +27,11 @@ projects.push({
   "assets": [
     {
       "src": "images/battery-monitoring/utfr_battery_monitoring.png",
-      "caption": "utfr battery monitoring"
+      "caption": "Battery Monitoring PCB"
     },
     {
       "src": "images/battery-monitoring/battery_board_bringup.png",
-      "caption": "battery board bringup"
+      "caption": "Battery PCB Bringup"
     }
   ],
   "figures": [

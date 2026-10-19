@@ -27,11 +27,11 @@ projects.push({
   "assets": [
     {
       "src": "images/buck-converter/Buck_Converter.png",
-      "caption": "Buck Converter"
+      "caption": "Buck Converter 3D Model"
     },
     {
       "src": "images/buck-converter/Buck_Simultion.png",
-      "caption": "Buck Simultion"
+      "caption": "Buck LTSPICE Simulation"
     }
   ],
   "figures": [

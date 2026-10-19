@@ -91,19 +91,19 @@ projects.push({
     },
     {
       "src": "images/power-amplifier/Power_Amp_Rev2.png",
-      "caption": "Power Amp Rev2"
+      "caption": "Revision 1"
     },
     {
       "src": "images/power-amplifier/Power_Amp_Rev_1.png",
-      "caption": "Power Amp Rev 1"
+      "caption": "Revision 2"
     },
     {
       "src": "images/power-amplifier/Updated PCB for power amplifier.png",
-      "caption": "Updated PCB for power amplifier"
+      "caption": "Updated PCB"
     },
     {
       "src": "images/power-amplifier/Schematic for Rev2 Power Amp.png",
-      "caption": "Schematic for Rev2 Power Amp"
+      "caption": "NI Multisim Schematic"
     },
     {
       "src": "images/power-amplifier/Class_E_Power_Amp_architecture.png",
